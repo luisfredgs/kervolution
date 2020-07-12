@@ -1,6 +1,8 @@
 # kervolution
 Kervolution Library in PyTorch
 
+Paper reference "Kervolutinal Neural Networks": https://arxiv.org/pdf/1904.03955.pdf
+
 # Usage
 It is suggested to add this repo as a submodule in your project.
 
